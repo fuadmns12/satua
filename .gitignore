@@ -14,7 +14,7 @@ lerna-debug.log*
 
 # Dependencies and builds
 node_modules
-docs
+docs/
 dist
 dist-ssr
 *.local
