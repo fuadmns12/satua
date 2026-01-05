@@ -90,7 +90,7 @@ const App: React.FC = () => {
             <Settings2 className="text-black w-6 h-6" />
           </div>
           <div>
-            <h1 className="font-bold text-lg tracking-tight">VOCAL BOOTH</h1>
+            <h1 className="font-bold text-lg tracking-tight">SIMULATION</h1>
             <p className="text-xs text-gray-500">EXAM SESSION</p>
           </div>
         </div>
@@ -120,7 +120,7 @@ const App: React.FC = () => {
       <main className="flex-1 p-4 md:p-8 relative overflow-y-auto">
         {/* Mobile Header (visible only on small screens) */}
         <div className="md:hidden flex justify-between items-center mb-6">
-          <span className="font-bold text-amber-500">VOCAL BOOTH</span>
+          <span className="font-bold text-amber-500">SIMULATIONN</span>
           <div className="text-xs bg-gray-800 px-2 py-1 rounded">{currentStep.replace('_', ' ')}</div>
         </div>
 
