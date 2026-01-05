@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-    "homepage": "https://github.com/fuadmns12/satu",
+    "homepage": "https://github.com/fuadmns12/satua",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
